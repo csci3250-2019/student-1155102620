@@ -23,7 +23,7 @@ Year 2 **Computer Science** student
 ## Task List
 - [x] new repository
 - [x] created readme.md
-- [ ] upload screenshot
+- [x] upload screenshot
 
 ## Screenshot
-! [Screenshot] (screenshot.png)
+![Screenshot](screenshot.png)
