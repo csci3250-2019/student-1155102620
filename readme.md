@@ -26,4 +26,4 @@ Year 2 **Computer Science** student
 - [ ] upload screenshot
 
 ## Screenshot
-![Screenshot] (screenshot.png)
+! [Screenshot] (screenshot.png)
