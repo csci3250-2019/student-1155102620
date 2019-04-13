@@ -15,9 +15,9 @@ Year 2 **Computer Science** student
 * Rust
 
 ## Courses I would like to take on exchange next term
-Host Institution offered course | CUHK Equivalent Course
-Algorithms and Data | Design and Analysis of Algorithms
-Theory of Computation | Formal Languages and Automata Theory
+| Host Institution offered course | CUHK Equivalent Course |
+| Algorithms and Data | Design and Analysis of Algorithms |
+| Theory of Computation | Formal Languages and Automata Theory |
 
 ## Task List
 - [x] new repository
