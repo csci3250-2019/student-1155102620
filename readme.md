@@ -24,3 +24,6 @@ Year 2 **Computer Science** student
 - [x] new repository
 - [x] created readme.md
 - [ ] upload screenshot
+
+## Screenshot
+![Screenshot] (screenshot.png)
